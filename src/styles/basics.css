@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
 
 * {
     margin: 0;
@@ -11,4 +11,13 @@
 html {
     font-size: 62.5%;
     font-family: 'Poppins', sans-serif;
+
+    /* pallet */
+    --VerdeMusgo: #96B36B;
+    --VerdeEscuro: #6BB36B;
+    --Verde: #99FF99;
+    --AzulClaro: #99FFFF;
+    --VerdeClaro: #D6FF99;
+    --Branco: #fefefe;
+    --Preto: #151515;
 }
